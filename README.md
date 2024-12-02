@@ -23,3 +23,19 @@ The Face Recognition Music System is a Python-based application that identifies 
 1. Clone the repository:
    ```bash
    git clone https://github.com/dalvianiket10/Face-Recognition-Music-System.git
+   ```
+2. Install required Python libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Set up the SQL Server database with the provided schema file.
+4. Run the application:
+   ```bash
+   python main.py
+   ```
+
+## Future Scope
+- Improve facial expression recognition accuracy.
+- Add integration with online music platforms like Spotify or YouTube.
+- Implement voice control features for hands-free interaction.
+
