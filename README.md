@@ -39,3 +39,7 @@ The Face Recognition Music System is a Python-based application that identifies 
 - Add integration with online music platforms like Spotify or YouTube.
 - Implement voice control features for hands-free interaction.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
